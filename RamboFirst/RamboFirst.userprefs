@@ -1,0 +1,20 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\GrenadeScript.cs">
+    <Files>
+      <File FileName="Assets\Scripts\NPC\EnemyScriptT.cs" Line="21" Column="5" />
+      <File FileName="Assets\Scripts\NPC\EnemyScript.cs" Line="98" Column="26" />
+      <File FileName="Assets\Scripts\NPC\EnemySpawner.cs" Line="70" Column="21" />
+      <File FileName="Assets\Scripts\ProjEnScript.cs" Line="19" Column="50" />
+      <File FileName="Assets\Scripts\WeapHandler.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\PlayerCtrl.cs" Line="60" Column="6" />
+      <File FileName="Assets\Scripts\ObjDamage.cs" Line="37" Column="14" />
+      <File FileName="Assets\Scripts\ProjScript.cs" Line="49" Column="65" />
+      <File FileName="Assets\Scripts\GrenadeScript.cs" Line="36" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
